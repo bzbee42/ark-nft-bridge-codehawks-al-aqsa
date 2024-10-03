@@ -1,6 +1,6 @@
 # Ark NFT Bridge Contest CodeHawks
 
-This is the reposatory of the Issues subitted by [Al-Qa'qa'](https://x.com/Al_Qa_qa) on [Ark NFT Bridge](https://x.com/ArkProjectNFTs) contest on [Codehawks](https://www.codehawks.com/)
+This is the repository of the Issues subitted by [Al-Qa'qa'](https://x.com/Al_Qa_qa) on [Ark NFT Bridge](https://x.com/ArkProjectNFTs) contest on [Codehawks](https://www.codehawks.com/)
 
 This is a new strategy for me where I categorized findings according to there Flow. It is like Separating the hope codebase into chunks and focusing on each chunk separately, similar to Divide and Conquer algorithms.
 
